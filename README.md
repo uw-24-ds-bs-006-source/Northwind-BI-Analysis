@@ -44,3 +44,4 @@ This project analyzes the Northwind sample database using SQL to understand prod
 - Verify all findings by running the queries against your database.
 - Add actual before-and-after performance results before submitting.
 - Revenue formula: quantity * unit_price * (1 - discount).
+
